@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="git://github.com/ataka/"
+           review="at-aka.blogspot.com" />
+  <default revision="master"
+           remote="github" />
+
+  <project name="blgrep" />
+  <project name="chatwork" />
+  <project name="clmemo" />
+  <project name="emacs-wget" />
+  <project name="fcopy" />
+  <project name="html-fold" />
+  <project name="sugaryank" />
+  <project name="task-recipe" />
+
+</manifest>
